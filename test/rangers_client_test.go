@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"gosdk/dslcontent"
+	"github.com/ljs418698976/datafinder-sdk-openapi-go/dslcontent"
 	"io/ioutil"
 	"testing"
 

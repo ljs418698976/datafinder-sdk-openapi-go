@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"gosdk/consts"
-	"gosdk/util"
+	"github.com/ljs418698976/datafinder-sdk-openapi-go/consts"
+	"github.com/ljs418698976/datafinder-sdk-openapi-go/util"
 )
 
 var (

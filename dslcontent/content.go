@@ -1,6 +1,6 @@
 package dslcontent
 
-import "gosdk/consts"
+import "github.com/ljs418698976/datafinder-sdk-openapi-go/consts"
 
 type Content struct {
 	QueryType       string                 `json:"query_type,omitempty"`

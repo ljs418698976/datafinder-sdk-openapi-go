@@ -1,7 +1,7 @@
 package test
 
 import (
-	"gosdk/util"
+	"github.com/ljs418698976/datafinder-sdk-openapi-go/util"
 	"strconv"
 	"testing"
 
