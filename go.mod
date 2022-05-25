@@ -1,4 +1,4 @@
-module gosdk
+module github.com/ljs418698976/datafinder-sdk-openapi-go
 
 go 1.14
 
